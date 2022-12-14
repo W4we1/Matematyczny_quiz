@@ -1,0 +1,10 @@
+INSERT INTO questions (description) VALUES ("Ile to 2*2?");
+INSERT INTO questions (description) VALUES ("Ile to 2*4?");
+INSERT INTO questions (description) VALUES ("Ile to 2*50?");
+INSERT INTO questions (description) VALUES ("Ile to 15+15+15?");
+INSERT INTO questions (description) VALUES ("Ile to 3+6+9?");
+INSERT INTO questions (description) VALUES ("Ile to 50-40?");
+INSERT INTO questions (description) VALUES ("Ile to 50-40+50?");
+INSERT INTO questions (description) VALUES ("Ile to 6/3?");
+INSERT INTO questions (description) VALUES ("Ile to 2+2*2");
+INSERT INTO questions (description) VALUES ("Ile to 60+60-20?");
