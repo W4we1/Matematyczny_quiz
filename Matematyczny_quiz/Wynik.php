@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Matematyczny_quiz</title>
+        <title>Matematyczny quiz</title>
         <meta charset="utf-8">
     </head>
     <body>

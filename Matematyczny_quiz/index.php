@@ -1,11 +1,11 @@
 <html>
     <head>
-        <title>Matematyczny_quiz</title>
+        <title>Matematyczny quiz</title>
         <meta charset="utf-8">
     </head>
     <body>
         <header>
-            <h1>Matematyczny_quiz</h1>
+            <h1>Matematyczny quiz</h1>
         </header>
         <div>
             <form  method="POST" action="Wynik.php">
