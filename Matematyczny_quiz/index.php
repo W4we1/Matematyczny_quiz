@@ -1,16 +1,16 @@
 <html>
     <head>
-        <title>QUIZ</title>
+        <title>Matematyczny quiz</title>
         <meta charset="utf-8">
     </head>
     <body>
         <header>
-            <h1>QUIZ</h1>
+            <h1>Matematyczny quiz</h1>
         </header>
         <div>
-            <form  method="POST" action="wynik.php">
+            <form  method="POST" action="Wynik.php">
                 <?php
-                    $con = new mysqli("127.0.0.1","root","","qiz");
+                    $con = new mysqli("127.0.0.1","root","","matematyczny_quiz");
                     $res = $con->query("SELECT id, description FROM questions");
                     $rows = $res->fetch_all(MYSQLI_ASSOC);
                     $a=1;
